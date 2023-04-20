@@ -101,6 +101,7 @@ a:hover{
 
 div {
     padding: 1vw;
+    display: inline-flex;
     justify-content: center;
     align-content: center;
     text-align: center;
